@@ -21,7 +21,9 @@
     <div align= "center">
     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c6e8e2e4-fbdd-48c5-96ef-b897fa6cae95" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e2abdd9a-d45f-454f-bca8-a6cc46244b74" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
     </div>
+        
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@soni/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@soni/posts"> </a>
