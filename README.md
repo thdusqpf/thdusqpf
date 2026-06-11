@@ -47,7 +47,29 @@ soyeon@github:~$ neofetch
   <img src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="120" alt="CKA">
 </div>
 
+
 ---
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=thdusqpf&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=161b22&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdusqpf&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=161b22&title_color=00FF41&text_color=c9d1d9" width="49%">
+
+</div>
+
+---
+
+<div align="center">
+  <h2>🔥 Streak</h2>
+
+  <img src="https://streak-stats.demolab.com?user=thdusqpf&theme=dark&hide_border=true&background=161b22&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=30363d" width="60%">
+
+</div>
+
+
+---
+
 
 <div align="center">
   <h2>🧑‍💻 Contact me</h2>
@@ -58,3 +80,4 @@ soyeon@github:~$ neofetch
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,2,2,5,30&height=100&section=footer" width="100%">
 </div>
+
