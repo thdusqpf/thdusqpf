@@ -3,7 +3,26 @@
 </div>
 
 ---
+<div align="center">
+  <h2>👩‍💻 About Me</h2>
+  
+```bash
+soyeon@github:~$ neofetch
 
+   _   ___  ___  _   _  ____    __  __  ____ 
+  / \ (  _ \/ _ \| | | ||_  _)  |  \/  || __|
+ / _ \ ) _ < (_) ) |_| | )(     | |\/| || _| 
+/_/ \_\(____/\___/ \___/ (__)   |_|  |_||___| 
+
+  Name      : Soyeon Kim
+  GitHub    : github.com/thdusqpf
+  Role      : Cloud Infra Engineer
+  Stack     : OpenStack · Kubernetes · Linux
+  Tools     : Ansible · Prometheus · Grafana · AWS
+  Certs     : CKA · AWS Cloud Practitioner
+  Blog      : velog.io/@soni
+```
+</div>
 <div align="center">
   <h2>🛠️ Tech Stacks</h2>
   <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white">
