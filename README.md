@@ -20,7 +20,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Stats & Achievements </h2> <br> 
     <div align= "center">
     <!--START_SECTION:badges-->
-[![Oracle Certified Professional, Java SE 6 Programmer](https://images.credly.com/size/80x80/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png)](https://www.credly.com/badges/4cf60219-cb0f-4ef4-b05e-6d5366b2adcd)
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/e2abdd9a-d45f-454f-bca8-a6cc46244b74)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c6e8e2e4-fbdd-48c5-96ef-b897fa6cae95)
 <!--END_SECTION:badges-->
     </div>
     <div align= "center">
