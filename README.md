@@ -19,10 +19,8 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Stats & Achievements </h2> <br> 
     <div align= "center">
-    <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/e2abdd9a-d45f-454f-bca8-a6cc46244b74)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c6e8e2e4-fbdd-48c5-96ef-b897fa6cae95)
-<!--END_SECTION:badges-->
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c6e8e2e4-fbdd-48c5-96ef-b897fa6cae95" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e2abdd9a-d45f-454f-bca8-a6cc46244b74" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
