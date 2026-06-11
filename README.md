@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=240&text=Soyeon's%20Github&animation=blink&fontColor=ffffff&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome+to+Soyeon%27s+Github&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cloud Infra %7C DevOps %7C OpenStack&descAlignY=58&descColor=00FF41" width="100%">
 </div>
 
 ---
