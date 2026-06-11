@@ -3,16 +3,19 @@
 </div>
 
 ---
+
 <div align="center">
   <h2>👩‍💻 About Me</h2>
-  
+</div>
+
 ```bash
 soyeon@github:~$ neofetch
 
-   _   ___  ___  _   _  ____    __  __  ____ 
-  / \ (  _ \/ _ \| | | ||_  _)  |  \/  || __|
- / _ \ ) _ < (_) ) |_| | )(     | |\/| || _| 
-/_/ \_\(____/\___/ \___/ (__)   |_|  |_||___| 
+   #    ####   ####  #   #  #####    #   #  ####
+  # #   #   #  #   # #   #    #      ## ## #
+ #   #  ####   #   # #   #    #      # # # #####
+ #####  #   #  #   # #   #    #      #   # #
+ #   #  ####   ####   ###   #####    #   #  ####
 
   Name      : Soyeon Kim
   GitHub    : github.com/thdusqpf
@@ -22,7 +25,9 @@ soyeon@github:~$ neofetch
   Certs     : CKA · AWS Cloud Practitioner
   Blog      : velog.io/@soni
 ```
-</div>
+
+---
+
 <div align="center">
   <h2>🛠️ Tech Stacks</h2>
   <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white">
@@ -48,4 +53,8 @@ soyeon@github:~$ neofetch
   <h2>🧑‍💻 Contact me</h2>
   <a href="https://velog.io/@soni/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
   <a href="mailto:thdusqpf6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,2,2,5,30&height=100&section=footer" width="100%">
 </div>
