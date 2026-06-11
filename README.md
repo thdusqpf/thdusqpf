@@ -52,9 +52,9 @@ soyeon@github:~$ neofetch
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=thdusqpf&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=161b22&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdusqpf&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=161b22&title_color=00FF41&text_color=c9d1d9" width="49%">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=thdusqpf&show_icons=true&hide_border=true&bg_color=161b22&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdusqpf&layout=compact&hide_border=true&bg_color=161b22&title_color=00FF41&text_color=c9d1d9&langs_count=8&card_width=320" height="180">
 
 </div>
 
