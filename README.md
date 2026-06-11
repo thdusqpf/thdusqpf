@@ -20,7 +20,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Stats & Achievements </h2> <br> 
     <div align= "center">
     <!--START_SECTION:badges-->
-    <!--END_SECTION:badges-->
+[![Oracle Certified Professional, Java SE 6 Programmer](https://images.credly.com/size/80x80/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png)](https://www.credly.com/badges/4cf60219-cb0f-4ef4-b05e-6d5366b2adcd)
+<!--END_SECTION:badges-->
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
